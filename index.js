@@ -1,7 +1,7 @@
 const farmAnimals = 'cow horse sheep pig chicken'
 const [moo, neigh, baa, oink, cluck,] = farmAnimals.split(' ')
 const [Bessie, , Dolly, Babe, Little] = farmAnimals.split(' ')
-const [black_and_white, , black, pink, ,]
+const [black_and_white, , black, pink, ,] = farmAnimals.split(' ')
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
