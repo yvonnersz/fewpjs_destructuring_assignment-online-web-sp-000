@@ -33,7 +33,7 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 
-const { song_2, song_4 } = k_muppet.the_muppet_movie
+const {song_2, song_4} = k_muppet.the_muppet_movie
 
 // Strings
 
